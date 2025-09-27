@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MapServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+742cdcc3aeb2ff98008b5d88c5fc7b66fe4896b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a38bd4c28dcda58a38af26b5959887fce78207ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("MapServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MapServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
