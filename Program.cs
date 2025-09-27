@@ -46,3 +46,9 @@ app.UseHttpsRedirection();
 app.MapControllers();
 
 app.Run();
+
+
+namespace MapServer
+{
+    public partial class Program { }
+}
