@@ -10,21 +10,11 @@ Supports create, update, and delete operations with persistence in **MongoDB**.
 ## 🚀 Installation & Run
 
 ```bash
-# 1. Clone repository
 git clone https://github.com/ChaimCymerman0548492309/MapServer
 cd MapServer
 
-# 2. Restore dependencies
-dotnet restore
+dotnet run
 
-# 3. Configure environment
-cp appsettings.Development.json appsettings.Local.json
-# edit "MongoSettings:ConnectionString"
-
-# 4. Run locally
-dotnet run --project MapServer
-
-# 5. Run tests
 dotnet test
 ````
 
