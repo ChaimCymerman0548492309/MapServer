@@ -12,7 +12,7 @@ Supports create, update, and delete operations with persistence in MongoDB.
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-repo/map-service.git
+git clone https://github.com/ChaimCymerman0548492309/MapServer
 cd map-service
 
 # 2. Install dependencies
