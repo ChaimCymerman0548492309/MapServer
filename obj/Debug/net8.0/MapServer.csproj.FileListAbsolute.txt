@@ -10,8 +10,6 @@ C:\Users\chaim\Desktop\chaim_cymerman\MapServer\bin\Debug\net8.0\appsettings.Dev
 C:\Users\chaim\Desktop\chaim_cymerman\MapServer\bin\Debug\net8.0\appsettings.json
 C:\Users\chaim\Desktop\chaim_cymerman\MapServer\bin\Debug\net8.0\MapServer.Tests\obj\MapServer.Tests.csproj.nuget.dgspec.json
 C:\Users\chaim\Desktop\chaim_cymerman\MapServer\bin\Debug\net8.0\MapServer.Tests\obj\project.assets.json
-C:\Users\chaim\Desktop\chaim_cymerman\MapServer\bin\Debug\net8.0\package-lock.json
-C:\Users\chaim\Desktop\chaim_cymerman\MapServer\bin\Debug\net8.0\package.json
 C:\Users\chaim\Desktop\chaim_cymerman\MapServer\bin\Debug\net8.0\DnsClient.dll
 C:\Users\chaim\Desktop\chaim_cymerman\MapServer\bin\Debug\net8.0\MongoDB.Bson.dll
 C:\Users\chaim\Desktop\chaim_cymerman\MapServer\bin\Debug\net8.0\SharpCompress.dll
