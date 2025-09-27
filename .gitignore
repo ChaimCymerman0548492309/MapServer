@@ -25,3 +25,48 @@ logs/
 # OS
 .DS_Store
 Thumbs.db
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Rider / JetBrains
+.idea/
+
+# Test results
+TestResult*/
+*.VisualState.xml
+*.vsp
+*.vspx
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Cache
+*.dll
+*.exe
+*.pdb
+*.cache
+*.tmp
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Optional: remove API test file
+MapServer.http
